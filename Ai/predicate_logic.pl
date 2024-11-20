@@ -1,0 +1,13 @@
+fruit(apple).
+fruit(Litchi).
+fruit(Orange).
+fruit(Mango).
+food(rice).
+food(Egg).
+food(Curry).
+food(Roti).
+food(Dal).
+country(china).
+country(India).
+country(Nepal).
+country(USA).
